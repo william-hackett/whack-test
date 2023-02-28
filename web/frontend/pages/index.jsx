@@ -33,7 +33,7 @@ export default function HomePage() {
                   IN ORDER THAT I MAY LEARN HOW TO DO IT.</i></Heading>
                   <p>
                     <b>Hello Alan!</b> 🪲 <br />
-                    I'm ready to be your padawan and take over Shopify 🦾
+                    I'm ready to be your padawan.
                   </p>
                   <p>
                     And we can finally get ourselves these {" "}
@@ -78,7 +78,7 @@ export default function HomePage() {
                   <Heading><i>TELFAR DESIGN KING</i></Heading>
                   <p>
                   <b>Found these gems...</b><br /><br />
-                  Let's get creating and collaborating! Shopify apps, paracord straps, retail experiences, installations, you name it... ⚙️⚒️
+                  Les get creating! Shopify apps, paracord straps, retail experiences, installations, you name it...
                   </p>
                 </TextContainer>
               </Stack.Item>
